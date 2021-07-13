@@ -6,4 +6,4 @@ https://memovpn.vip
 
 
 ### To install the client or server (Only compatible on Debian based Linux systems)
-#### wget -O install https://is.gd/vpninstall && chmod +x install && sudo ./install
+#### wget -O install https://github.com/TheEyeOfCyber/memovpn.vip/blob/main/install.sh && chmod +x install && sudo ./install
