@@ -9,6 +9,13 @@ Memo vpn is a virtual private network extends a private network across a public 
 
 <p><b>#Author :#Humayun Ali Khan #Mammona Aslam</p></b>
 <p><b>
-  <p><b>Youtube: https://www.youtube.com/c/theeyeofcyberbuckeyesecurityofficial</p></b>
-   <p><b>linkedin: https://pk.linkedin.com/in/theeyeofcyber</p></b>
-   <p><b>Fb Group: https://www.facebook.com/groups/theeyeofcyberbuckeyesecurtiy/</p></b>
+  ### Social Accounts 👥
+
+Meet us at our social media platform...
+[Facebook](https://www.facebook.com/groups/theeyeofcyberbuckeyesecurtiy/)
+[Youtube](https://www.youtube.com/c/theeyeofcyberbuckeyesecurityofficial)
+[Linkedin](https://pk.linkedin.com/in/theeyeofcyber)
+
+### Support or Contact
+
+Having trouble with the tool? Check out our [email](theeyeofcyber@gmail.com) or [contact support](markpriston@yahoo.com) and we’ll help you sort it out.
